@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     EditText UrlField;
     TextView ShowResponse;
     Button HitApi;
-    static final String API_URL= "https://api-v2.happay.in/access/v1/fetchauthmode/?user=8971246006";
+    static final String API_URL= "https://api.pions.in/";
 
 
     @Override
